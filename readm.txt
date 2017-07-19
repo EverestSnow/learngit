@@ -2,5 +2,9 @@ v1
 v2
 branch test1 v3
 branch feature1 v4
+<<<<<<< HEAD
 branch feature1 day day work ...1
 branch feature1 day day work ...2,need continue
+=======
+branch dev v5
+>>>>>>> dev
